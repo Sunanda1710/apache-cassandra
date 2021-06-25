@@ -1,0 +1,188 @@
+Bookid|Title|Author|Genre|Publisher
+1|Fundamentals of Wavelets|Goswami Jaideva|signal_processing|Wiley
+2|Data Smart|Foreman John|data_science|Wiley
+3|God Created the Integers|Hawking Stephen|mathematics|Penguin
+4|Superfreakonomics|Dubner Stephen|economics|HarperCollins
+5|Orientalism|Said Edward|history|Penguin
+6|Nature of Statistical Learning Theory The|Vapnik Vladimir|data_science|Springer
+7|Integration of the Indian States|Menon V P|history|Orient Blackswan
+8|Drunkard's Walk The|Mlodinow Leonard|science|Penguin
+9|Image Processing & Mathematical Morphology|Shih Frank|signal_processing|CRC
+10|How to Think Like Sherlock Holmes|Konnikova Maria|psychology|Penguin
+11|Data Scientists at Work|Sebastian Gutierrez|data_science|Apress
+12|Slaughterhouse Five|Vonnegut Kurt|fiction|Random House
+13|Birth of a Theorem|Villani Cedric|mathematics|Bodley Head
+14|Structure & Interpretation of Computer Programs|Sussman Gerald|computer_science|MIT Press
+15|Age of Wrath The|Eraly Abraham|history|Penguin
+16|Trial The|Kafka Frank|fiction|Random House
+17|Statistical Decision Theory'|Pratt John|data_science|MIT Press
+18|Data Mining Handbook|Nisbet Robert|data_science|Apress
+19|New Machiavelli The|Wells H. G.|fiction|Penguin
+20|Physics & Philosophy|Heisenberg Werner|science|Penguin
+21|Making Software|Oram Andy|computer_science|O'Reilly
+22|Analysis Vol I|Tao Terence|mathematics|HBA
+23|Machine Learning for Hackers|Conway Drew|data_science|O'Reilly
+24|Signal and the Noise The|Silver Nate|data_science|Penguin
+25|Python for Data Analysis|McKinney Wes|data_science|O'Reilly
+26|Introduction to Algorithms|Cormen Thomas|computer_science|MIT Press
+27|Beautiful and the Damned The|Deb Siddhartha|nonfiction|Penguin
+28|Outsider The|Camus Albert|fiction|Penguin
+29|Complete Sherlock Holmes The - Vol I|Doyle Arthur Conan|fiction|Random House
+30|Complete Sherlock Holmes The - Vol II|Doyle Arthur Conan|fiction|Random House
+31|Wealth of Nations The|Smith Adam|economics|Random House
+32|Pillars of the Earth The|Follett Ken|fiction|Random House
+33|Mein Kampf|Hitler Adolf|nonfiction|Rupa
+34|Tao of Physics The|Capra Fritjof|science|Penguin
+35|Surely You're Joking Mr Feynman|Feynman Richard|science|Random House
+36|Farewell to Arms A|Hemingway Ernest|fiction|Rupa
+37|Veteran The|Forsyth Frederick|fiction|Transworld
+38|False Impressions|Archer Jeffery|fiction|Pan
+39|Last Lecture The|Pausch Randy|nonfiction|Hyperion
+40|Return of the Primitive|Rand Ayn|philosophy|Penguin
+41|Jurassic Park|Crichton Michael|fiction|Random House
+42|Russian Journal A|Steinbeck John|nonfiction|Penguin
+43|Tales of Mystery and Imagination|Poe Edgar Allen|fiction|HarperCollins
+44|Freakonomics|Dubner Stephen|economics|Penguin
+45|Hidden Connections The|Capra Fritjof|science|HarperCollins
+46|Story of Philosophy The|Durant Will|philosophy|Pocket
+47|Asami Asami|Deshpande P L|fiction|Mauj
+48|Journal of a Novel|Steinbeck John|fiction|Penguin
+49|Once There Was a War|Steinbeck John|nonfiction|Penguin
+50|Moon is Down The|Steinbeck John|fiction|Penguin
+51|Brethren The|Grisham John|fiction|Random House
+52|In a Free State|Naipaul V. S.|fiction|Rupa
+53|Catch 22|Heller Joseph|fiction|Random House
+54|Complete Mastermind The|BBC|nonfiction|BBC
+55|Dylan on Dylan|Dylan Bob|nonfiction|Random House
+56|Soft Computing & Intelligent Systems|Gupta Madan|data_science|Elsevier
+57|Textbook of Economic Theory|Stonier Alfred|economics|Pearson
+58|Econometric Analysis|Greene W. H.|economics|Pearson
+59|Learning OpenCV|Bradsky Gary|data_science|O'Reilly
+60|Data Structures Using C & C++|Tanenbaum Andrew|computer_science|Prentice Hall
+61|Computer Vision A Modern Approach|Forsyth David|data_science|Pearson
+62|Principles of Communication Systems|Taub Schilling|computer_science|TMH
+63|Let Us C|Kanetkar Yashwant|computer_science|Prentice Hall
+64|Amulet of Samarkand The|Stroud Jonathan|fiction|Random House
+65|Crime and Punishment|Dostoevsky Fyodor|fiction|Penguin
+66|Angels & Demons|Brown Dan|fiction|Random House
+67|Argumentative Indian The|Sen Amartya|nonfiction|Picador
+68|Sea of Poppies|Ghosh Amitav|fiction|Penguin
+69|Idea of Justice The|Sen Amartya|nonfiction|Penguin
+70|Raisin in the Sun A|Hansberry Lorraine|fiction|Penguin
+71|All the President's Men|Woodward Bob|history|Random House
+72|Prisoner of Birth A|Archer Jeffery|fiction|Pan
+73|Scoop!|Nayar Kuldip|history|HarperCollins
+74|Ahe Manohar Tari|Deshpande Sunita|nonfiction|Mauj
+75|Last Mughal The|Dalrymple William|history|Penguin
+76|Social Choice & Welfare Vol 39 No. 1|Various|economics|Springer
+77|Radiowaril Bhashane & Shrutika|Deshpande P L|nonfiction|Mauj
+78|Gun Gayin Awadi|Deshpande P L|nonfiction|Mauj
+79|Aghal Paghal|Deshpande P L|nonfiction|Mauj
+80|Maqta-e-Ghalib|Garg Sanjay|fiction|Mauj
+81|Manasa|Kale V P|nonfiction|Mauj
+82|India from Midnight to Milennium|Tharoor Shashi|history|Penguin
+83|Great Indian Novel The|Tharoor Shashi|fiction|Penguin
+84|O Jerusalem!|Lapierre Dominique|history|vikas
+85|City of Joy The|Lapierre Dominique|fiction|vikas
+86|Freedom at Midnight|Lapierre Dominique|history|vikas
+87|Winter of Our Discontent The|Steinbeck John|fiction|Penguin
+88|On Education|Russell Bertrand|philosophy|Routledge
+89|Free Will|Harris Sam|philosophy|FreePress
+90|Bookless in Baghdad|Tharoor Shashi|nonfiction|Penguin
+91|Case of the Lame Canary The|Gardner Earle Stanley|fiction|
+92|Theory of Everything The|Hawking Stephen|science|Jaico
+93|New Markets & Other Essays|Drucker Peter|economics|Penguin
+94|Electric Universe|Bodanis David|science|Penguin
+95|Hunchback of Notre Dame The|Hugo Victor|fiction|Random House
+96|Burning Bright|Steinbeck John|fiction|Penguin
+97|Age of Discontuinity The|Drucker Peter|economics|Random House
+98|Doctor in the Nude|Gordon Richard|fiction|Penguin
+99|Down and Out in Paris & London|Orwell George|nonfiction|Penguin
+100|Identity & Violence|Sen Amartya|philosophy|Penguin
+101|Beyond the Three Seas|Dalrymple William|history|Random House
+102|Talking Straight|Iacoca Lee|nonfiction|
+103|Maugham's Collected Short Stories Vol 3|Maugham William S|fiction|Vintage
+104|Phantom of Manhattan The|Forsyth Frederick|fiction|
+105|Ashenden of The British Agent|Maugham William S|fiction|Vintage
+106|Zen & The Art of Motorcycle Maintenance|Pirsig Robert|philosophy|Vintage
+107|Great War for Civilization The|Fisk Robert|history|HarperCollins
+108|We the Living|Rand Ayn|fiction|Penguin
+109|Artist and the Mathematician The|Aczel Amir|science|HighStakes
+110|History of Western Philosophy|Russell Bertrand|philosophy|Routledge
+111|Rationality & Freedom|Sen Amartya|economics|Springer
+112|Clash of Civilizations and Remaking of the World Order|Huntington Samuel|history|Simon&Schuster
+113|Uncommon Wisdom|Capra Fritjof|nonfiction|Fontana
+114|One|Bach Richard|nonfiction|Dell
+115|To Sir With Love|Braithwaite|fiction|Penguin
+116|Half A Life|Naipaul V S|fiction|
+117|Discovery of India The|Nehru Jawaharlal|history|
+118|Apulki|Deshpande P L|nonfiction|
+119|Unpopular Essays|Russell Bertrand|philosophy|
+120|Deceiver The|Forsyth Frederick|fiction|
+121|Veil: Secret Wars of the CIA|Woodward Bob|history|
+122|Char Shabda|Deshpande P L|nonfiction|
+123|Rosy is My Relative|Durrell Gerald|fiction|
+124|Moon and Sixpence The|Maugham William S|fiction|
+125|Short History of the World A|Wells H G|history|
+126|Trembling of a Leaf The|Maugham William S|fiction|
+127|Doctor on the Brain|Gordon Richard|fiction|
+128|Simpsons & Their Mathematical Secrets|Singh Simon|science|
+129|Pattern Classification|Duda Hart|data_science|
+130|From Beirut to Jerusalem|Friedman Thomas|history|
+131|Code Book The|Singh Simon|science|
+132|Age of the Warrior The|Fisk Robert|history|
+133|Numbers Behind Numb3rs The|Devlin Keith|science|
+134|Life in Letters A|Steinbeck John|nonfiction|
+135|Information The|Gleick James|science|
+136|Elements of Information Theory|Thomas Joy|data_science|
+137|Power Electronics - Rashid|Rashid Muhammad|computer_science|
+138|Power Electronics - Mohan|Mohan Ned|computer_science|
+139|Neural Networks|Haykin Simon|data_science|
+140|Grapes of Wrath The|Steinbeck John|fiction|
+141|Vyakti ani Valli|Deshpande P L|nonfiction|
+142|Statistical Learning Theory|Vapnik Vladimir|data_science|
+143|Empire of the Mughal - The Tainted Throne|Rutherford Alex|history|
+144|Empire of the Mughal - Brothers at War|Rutherford Alex|history|
+145|Empire of the Mughal - Ruler of the World|Rutherford Alex|history|
+146|Empire of the Mughal - The Serpent's Tooth|Rutherford Alex|history|
+147|Empire of the Mughal - Raiders from the North|Rutherford Alex|history|
+148|Mossad|Baz-Zohar Michael|history|
+149|Jim Corbett Omnibus|Corbett Jim|nonfiction|
+150|20000 Leagues Under the Sea|Verne Jules|fiction|
+151|Batatyachi Chal|Deshpande P L|fiction|
+152|Hafasavnuk|Deshpande P L|fiction|
+153|Urlasurla|Deshpande P L|fiction|
+154|Pointers in C|Kanetkar Yashwant|computer_science|
+155|Cathedral and the Bazaar The|Raymond Eric|computer_science|
+156|Design with OpAmps|Franco Sergio|computer_science|
+157|Think Complexity|Downey Allen|data_science|
+158|Devil's Advocate The|West Morris|fiction|
+159|Ayn Rand Answers|Rand Ayn|philosophy|
+160|Philosophy: Who Needs It|Rand Ayn|philosophy|
+161|Data Analysis with Open Source Tools|Janert Phillip|data_science|
+162|Broca's Brain|Sagan Carl|science|
+163|Men of Mathematics|Bell E T|mathematics|
+164|Oxford book of Modern Science Writing|Dawkins Richard|science|
+165|Justice Judiciary and Democracy|Ranjan Sudhanshu|philosophy|
+166|Arthashastra The|Kautiyla|philosophy|
+167|We the People|Palkhivala|philosophy|
+168|We the Nation|Palkhivala|philosophy|
+169|Courtroom Genius The|Sorabjee|nonfiction|
+170|Dongri to Dubai|Zaidi Hussain|nonfiction|
+171|History of England Foundation|Ackroyd Peter|history|
+172|City of Djinns|Dalrymple William|history|
+173|India's Legal System|Nariman|nonfiction|
+174|More Tears to Cry|Sassoon Jean|fiction|
+175|Ropemaker The|Dickinson Peter|fiction|
+176|Angels & Demons|Brown Dan|fiction|
+177|Prince The|Machiavelli|philosophy|
+178|Eyeless in Gaza|Huxley Aldous|fiction|
+179|Tales of Beedle the Bard|Rowling J K|fiction|
+180|Girl with the Dragon Tattoo|Larsson Steig|fiction|
+181|Girl who kicked the Hornet's Nest|Larsson Steig|fiction|
+182|Girl who played with Fire|Larsson Steig|fiction|
+183|Structure and Randomness|Tao Terence|mathematics|
+184|Image Processing with MATLAB|Eddins Steve|signal_processing|
+185|Animal Farm|Orwell George|fiction|
+186|Idiot The|Dostoevsky Fyodor|fiction|
+187|Christmas Carol A|Dickens Charles|fiction|
